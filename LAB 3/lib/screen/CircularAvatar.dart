@@ -10,6 +10,7 @@ class CircularAvatar extends StatelessWidget {
         child: CircleAvatar(
           radius: 50,
           backgroundImage: AssetImage("assets/profile2.jpg"),
+          backgroundColor: Colors.indigoAccent,
         ),
       ),
     );

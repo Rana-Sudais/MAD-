@@ -16,6 +16,7 @@ class SecHome extends StatelessWidget {
           margin: const EdgeInsets.symmetric(
             vertical: 50.0,
             horizontal: 10.0,
+          
           ).add(
             const EdgeInsets.only(left: 10),
           ),
